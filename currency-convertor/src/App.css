@@ -1,0 +1,58 @@
+#firstLable{
+  margin: 200px 0px 0px 400px;
+  font-size: large;
+}
+
+#firstInput{
+  margin: 0px 0px 0px 10px;
+  width: 445px;
+  display: inline-block;
+}
+
+#fromLable{
+  margin: 20px 0px 0px 400px;
+  font-size: large;
+}
+
+#from{
+  width: 200px;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+#secondInput{
+  margin: 50px 0px 0px 500px;
+  width: 200px;
+  display: inline-block;
+}
+
+#toLable{
+  margin-left: 10px;
+}
+
+#button{
+  margin: 10px 0px 0px 400px;
+  background-color: rgba(66, 66, 241, 0.986);
+  width: 575px;
+  padding: 5px;
+  text-align: center;
+  color: white;
+  font-size: large;
+  border-radius: 10px;
+}
+
+#convertedLable{
+  margin: 10px 0px 0px 400px;
+  font-size: large;
+}
+
+#converted{
+  margin: 10px 0px 0px 10px;
+  display: inline-block;
+  width: 425px;
+}
+
+#button:hover{
+  background-color: blue;
+  cursor: pointer;
+}
